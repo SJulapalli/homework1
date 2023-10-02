@@ -1,3 +1,7 @@
+What is a remote repository?
+
+A central online repository that can be seen by several collaborators. It contains a commit history akin to that of a local repository that maintains a history of the project.
+
 What is the difference between a merge and a rebase?
 
 Merge combines the histories of the two branches, creating a new commit that represents the combined result. Rebase applies the commits of the feature branch ontop of the commits of the branch being rebased onto, rewriting the project history.
