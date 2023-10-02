@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A central online repository that can be seen by several collaborators. It contains a commit history akin to that of a local repository that maintains a history of the project.
